@@ -26,17 +26,19 @@ This repository contains the complete software stack developed during the **RISE
 * **Goal:** Identify road boundaries in video feeds for self-driving cars.
 * **Tech:** OpenCV, Canny Edge Detection, Hough Transform, Region of Interest (ROI) Masking.
 * **Result:** Accurately plots lane lines on curved and straight roads.
-![Lane Detection Result](path/to/screenshot1.jpg)
+![Lane Detection Result](Screenshots/Project1.png)
 
 #### 2. Traffic Light Classification (CNN)
 * **Goal:** Detect and classify traffic signals (Red/Green/Yellow).
 * **Tech:** Custom CNN (Convolutional Neural Network) trained on GTSRB data, HSV Color Filtering for noise removal.
 * **Result:** 99% Validation Accuracy with real-time strict filtering for false positives.
+![Traffic Light Classification](Screenshots/Project2.png)
 
 #### 3. Human Detection & Tracking (YOLO)
 * **Goal:** Detect pedestrians and track them to prevent collisions.
 * **Tech:** YOLOv8 (Ultralytics), Object Tracking (ID assignment).
 * **Result:** Real-time bounding boxes with unique IDs at 30+ FPS.
+![Human Tracking](Screenshots/Project3.png)
 
 ---
 
@@ -46,12 +48,13 @@ This repository contains the complete software stack developed during the **RISE
 * **Goal:** Compute the optimal shortest path in a grid map with obstacles.
 * **Tech:** A* Algorithm (Heuristic Search), Matplotlib Visualization.
 * **Result:** Visualized optimal route finding in complex grid environments.
-![A Star Result](path/to/screenshot4.jpg)
+![A Star Result](Screenshots/Project4_finished.png)
 
 #### 5. Obstacle Avoidance System (Simulated)
 * **Goal:** Autonomous braking and decision-making based on sensor data.
 * **Tech:** Random Forest Classifier (AI), Python Turtle Simulation, Tinkercad (C++).
 * **Result:** Robot automatically slows down or triggers emergency braking when obstacles are <30cm.
+![Obstacle Detectation](Screenshots/Project5.png)
 
 ---
 
@@ -61,6 +64,7 @@ This repository contains the complete software stack developed during the **RISE
 * **Goal:** Teleoperate a robot using hand signs.
 * **Tech:** MediaPipe Hands, Geometry Logic.
 * **Result:** Mapped hand positions to 'Stop', 'Forward', 'Left', and 'Right' commands.
+![Gesture Controlled Robot](Screenshots/Project6.png)
 
 #### 7. Autonomous Drone Flight (PID)
 * **Goal:** Simulate stable flight dynamics for a quadcopter.
@@ -71,6 +75,7 @@ This repository contains the complete software stack developed during the **RISE
 * **Goal:** Natural Language Interface for robotic control.
 * **Tech:** SpeechRecognition Library, Google Speech API.
 * **Result:** Converts spoken commands ("Go Forward") into executable robot actions.
+![Voice Controlled Navigation](Screenshots/Project8.png)
 
 ---
 
