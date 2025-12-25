@@ -83,7 +83,7 @@ This repository contains the complete software stack developed during the **RISE
 1.  **Clone the repository:**
     ```bash
     git clone [https://github.com/Arkz-Deepak/Thamizhan_Skills](https://github.com/Arkz-Deepak/Thamizhan_Skills)
-    cd autonomous-systems-portfolio
+    cd Thamizhan_Skills
     ```
 
 2.  **Install Dependencies:**
