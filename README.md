@@ -32,13 +32,13 @@ This repository contains the complete software stack developed during the **RISE
 * **Goal:** Detect and classify traffic signals (Red/Green/Yellow).
 * **Tech:** Custom CNN (Convolutional Neural Network) trained on GTSRB data, HSV Color Filtering for noise removal.
 * **Result:** 99% Validation Accuracy with real-time strict filtering for false positives.
-![Traffic Light Classification](Screenshots/Project2.png)
+![Traffic Light Classification](Screenshots/Project3.png)
 
 #### 3. Human Detection & Tracking (YOLO)
 * **Goal:** Detect pedestrians and track them to prevent collisions.
 * **Tech:** YOLOv8 (Ultralytics), Object Tracking (ID assignment).
 * **Result:** Real-time bounding boxes with unique IDs at 30+ FPS.
-![Human Tracking](Screenshots/Project3.png)
+![Human Tracking](Screenshots/Project2.png)
 
 ---
 
