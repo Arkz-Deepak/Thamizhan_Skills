@@ -38,7 +38,7 @@ This repository contains the complete software stack developed during the **RISE
 * **Goal:** Detect pedestrians and track them to prevent collisions.
 * **Tech:** YOLOv8 (Ultralytics), Object Tracking (ID assignment).
 * **Result:** Real-time bounding boxes with unique IDs at 30+ FPS.
-![Human Tracking](Screenshots/Project2.png)
+![Human Tracking](Screenshots/Project5.png)
 
 ---
 
@@ -54,7 +54,7 @@ This repository contains the complete software stack developed during the **RISE
 * **Goal:** Autonomous braking and decision-making based on sensor data.
 * **Tech:** Random Forest Classifier (AI), Python Turtle Simulation, Tinkercad (C++).
 * **Result:** Robot automatically slows down or triggers emergency braking when obstacles are <30cm.
-![Obstacle Detectation](Screenshots/Project5.png)
+![Obstacle Detectation](Screenshots/Project2.png)
 
 ---
 
