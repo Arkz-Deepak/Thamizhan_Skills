@@ -1,6 +1,6 @@
 # 🚗 AI for Autonomous Systems | RISE Internship Portfolio
 
-**Internship Period:** December 2025
+**Internship Period:** December 2025 
 **Domain:** Computer Vision, Robotics, Deep Learning, Path Planning  
 **Status:** ✅ Complete (8/8 Projects)
 
